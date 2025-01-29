@@ -41,11 +41,7 @@ python cnnmnist.py
 ```
 
 ### 📈 Evaluating the Model
-After training, you can evaluate the model's performance using:
 
-```bash
-python cnnmnist.py --evaluate
-```
 
 ## 📌 Results
 The model is evaluated based on:
