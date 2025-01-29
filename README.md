@@ -1,5 +1,5 @@
 # 🧠 Convolutional Neural Network for MNIST
-
+![Convolutional Neural Network](cnn.png)
 ## 🚀 Overview
 This repository contains a PyTorch implementation of a **Convolutional Neural Network (CNN)** for classifying handwritten digits from the **MNIST dataset**. The model is trained using **supervised learning** and achieves high accuracy through convolutional feature extraction.
 
